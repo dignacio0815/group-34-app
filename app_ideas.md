@@ -11,6 +11,7 @@ Venmo - Finance
 Lyft - Travel
 Messenger - Social Networking
 
+Google Drive - Productivity 
 
 5+ New App Ideas
 -----------------
@@ -40,6 +41,13 @@ Cora Xing
 - Housing Finder for college students
 - Lost pet finder for the pet-owning community
 - CO2/greenhouse gas emission-saver depening on what transportation method you decide to take from point A to point B (1)
+
+Denize Ignacio 
+- An app that shows all nearby things in a city that college students can do that were posted by either current students or alumni.
+- An app that finds all possible prices for an item online so that when purchased, it is the best possible deal for that item
+- An app that lets food lovers, bakers, cooks, etc. to share their ideas and recipes. 
+- App that lets the user find other people around them that are related to their sport. Allows users to connect and find people who want to play the same sport they are currently are as well so that it creates a welcoming, playing all while competitive environment. 
+- A coding app that lets the user view daily problems, tips, contests, and community events to involve themselves in the tech field.
 
 Top 3 App Ideas
 -----------------
